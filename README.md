@@ -1,6 +1,6 @@
 # [duncanmccoll.github.io][d]
 
-Small personal website. Primarily Built with HTML and [Materialize][M].
+Small personal website.  Primarily Built with HTML and [Materialize][M].
 
 ## Things used
 [jQuery][J]
