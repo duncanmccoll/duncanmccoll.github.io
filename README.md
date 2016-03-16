@@ -4,7 +4,9 @@ Small personal website.  Primarily Built with HTML and [Bootstrap][B].
 
 ## Things used
 [Bootstrap][B]
+
 [jQuery][J]
+
 [Font Awesome][FA]
 
 
