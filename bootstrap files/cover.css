@@ -1,6 +1,12 @@
 /*
  * Globals
  */
+
+.sticker {
+width: 180px;
+height: 180px;
+}
+
 h3 i {
 margin-top:0em;
 margin-left: 1em;
