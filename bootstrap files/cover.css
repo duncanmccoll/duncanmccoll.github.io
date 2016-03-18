@@ -38,9 +38,9 @@ i {
 
 
 /* Links */
-i a,
-i a:focus,
-i a:hover {
+a i,
+a i :focus,
+a i :hover {
   color: #fff;
 }
 
