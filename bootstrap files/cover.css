@@ -35,7 +35,10 @@ i {
  
 }
 
-.youtubelink {color:#333;}
+.youtubelink {
+    color: #999;
+    color: rgba(255,255,255,.5);
+}
 
 
 /* Links */
