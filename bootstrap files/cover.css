@@ -35,12 +35,13 @@ i {
  
 }
 
+p > a {color:#333;}
 
 
 /* Links */
-a i,
-a i :focus,
-a i :hover {
+a,
+a:focus,
+a:hover {
   color: #fff;
 }
 
